@@ -5,3 +5,5 @@ def display_rainbow(colors)
     puts color
   end
 end
+
+display_rainbow(colors)
