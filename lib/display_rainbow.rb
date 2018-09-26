@@ -2,6 +2,6 @@
 
 def display_rainbow(colors)
   colors.each do |color|
-    p color
+    puts color
   end
 end
