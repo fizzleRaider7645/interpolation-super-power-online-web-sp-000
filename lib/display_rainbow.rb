@@ -2,7 +2,7 @@
 
 def display_rainbow(colors)
   colors.each do |color|
-    puts color.class
+    puts color
   end
 end
 
