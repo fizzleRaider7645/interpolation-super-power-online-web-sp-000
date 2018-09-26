@@ -9,5 +9,3 @@ def display_rainbow(colors)
   puts colors[5][0].upcase + ": " + colors[5]
   puts colors[6][0].upcase + ": " + colors[6]
 end
-
-display_rainbow(['red', 'orange', 'yellow', 'green', 'blue', 'indigo', 'violet'])
